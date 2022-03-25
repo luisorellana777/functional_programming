@@ -61,20 +61,7 @@
       <recent name="programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FP05FunctionalParallelizing">
-    <configuration name="FP03Functional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programming.FP03Functional" />
-      <module name="functional-programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.FP05FunctionalModifyable">
     <configuration name="FP04CustomClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programming.FP04CustomClass" />
       <module name="functional-programming" />
@@ -114,6 +101,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FP05FunctionalModifyable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.FP05FunctionalModifyable" />
+      <module name="functional-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FP05FunctionalParallelizing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programming.FP05FunctionalParallelizing" />
       <module name="functional-programming" />
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FP05FunctionalModifyable" />
         <item itemvalue="Application.FP05FunctionalParallelizing" />
         <item itemvalue="Application.FP05Functional" />
         <item itemvalue="Application.FP04CustomClass" />
         <item itemvalue="Application.FP04Functional" />
-        <item itemvalue="Application.FP03Functional" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +156,7 @@
       <workItem from="1647959550347" duration="11623000" />
       <workItem from="1648052648254" duration="2459000" />
       <workItem from="1648131733626" duration="5550000" />
-      <workItem from="1648159581330" duration="11585000" />
+      <workItem from="1648159581330" duration="12320000" />
     </task>
     <servers />
   </component>
