@@ -24,6 +24,9 @@ public class FP05Functional {
         List<String> courses2 = List.of("Spring", "Spring Boot", "API", "Microservices", "AWS", "PCF", "Azure", "Docker", "Kubernetes");
         courses.stream().flatMap(course -> courses2.stream().map(course2 -> List.of(course, courses2))).collect(Collectors.toList()).forEach(System.out::println);
 
+        System.out.println("------------");
+        System.out.println(courses.stream().peek(System.out::println).filter(course -> course.length() > 11).map(String::toUpperCase).peek(System.out::println).findFirst());
+
     }
 
 }

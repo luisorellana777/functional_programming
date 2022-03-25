@@ -1,0 +1,14 @@
+
+V	java:S125
+"<This block of commented-out lines of code should be removed.(™‡ëıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(îÍ±©øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İš½€ùÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(ìÜ‹
+M	java:S106."9Replace this use of System.out or System.err by a logger.(†½ù1
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ùçå­üÿÿÿÿ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(²å¸ú
+N	java:S106="9Replace this use of System.out or System.err by a logger.(ë©œÂ
+_
+java:S1144"DRemove this unused private "printAllNumbersInlistFunctional" method.(—ä’üÿÿÿÿ
+`
+java:S1144"ERemove this unused private "printEvenNumbersInlistFunctional" method.(¢±æ³øÿÿÿÿ
