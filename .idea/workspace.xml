@@ -61,22 +61,9 @@
       <recent name="programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FP05FunctionalModifyable">
+  <component name="RunManager" selected="Application.FP05FunctionalReaderFile">
     <configuration name="FP04CustomClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programming.FP04CustomClass" />
-      <module name="functional-programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FP04Functional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programming.FP04Functional" />
       <module name="functional-programming" />
       <extension name="coverage">
         <pattern>
@@ -127,13 +114,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FP05FunctionalReaderFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.FP05FunctionalReaderFile" />
+      <module name="functional-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FP05FunctionalReaderFile" />
         <item itemvalue="Application.FP05FunctionalModifyable" />
         <item itemvalue="Application.FP05FunctionalParallelizing" />
         <item itemvalue="Application.FP05Functional" />
         <item itemvalue="Application.FP04CustomClass" />
-        <item itemvalue="Application.FP04Functional" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +156,7 @@
       <workItem from="1647959550347" duration="11623000" />
       <workItem from="1648052648254" duration="2459000" />
       <workItem from="1648131733626" duration="5550000" />
-      <workItem from="1648159581330" duration="12320000" />
+      <workItem from="1648159581330" duration="13028000" />
     </task>
     <servers />
   </component>

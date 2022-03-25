@@ -1,0 +1,4 @@
+some lines
+of content
+for testing how to read
+in lambda structure
